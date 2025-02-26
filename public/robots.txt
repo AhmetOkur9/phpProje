@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /app/
+Disallow: /libs/
+Disallow: /js/
+Disallow: /images/
+Disallow: /fonts/
+Disallow: /css/
+Disallow: /admin.php
+
+Allow: /index.php
+
+Sitemap: https://www.danismantercihim.com/sitemap.xml
